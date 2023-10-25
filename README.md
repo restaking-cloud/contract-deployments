@@ -8,10 +8,11 @@ Below you can find the contracts and their addresses per network.
 
 | Contract | Address |
 | -------- | -------- |
-| Interest Rate Model | 0x9f75890b1a492047d5e317F63B6780275A8f36B8 |
-| K2 Lending | 0xF44c6c567380db68Dc414Bb414Cc9385f7c54FE9 |
-| Reporter Registry | 0x3F9a0aC0417f9B6aD164174876AB9D42ADEa22d1 |
-| K2 Depositor | 0xd4DADd2C0e40FfC503e0bF56F678D6280B7b461F |
+| Interest Rate Model (Partitioned) | 0x0c2f45a612e217f206861CFAf6073F154579B0dE |
+| K2 Lending | 0x10163A57EeCE9EB14Fe9e49889060D0E22c74F1F |
+| Reporter Registry | 0x5b98dC0050f082ffda2d5b13f7e47529638197BE |
+| K2 Depositor | 0x3e0D17B69504E4305fbd2D82B9F49240b124f0D3 |
+| Node Operator Module | 0x6bA61F2CFfEC4cECCc73397E9b04D04b4106658d |
 
 ## Contract Utilities
 
