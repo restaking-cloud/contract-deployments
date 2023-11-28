@@ -8,11 +8,14 @@ Below you can find the contracts and their addresses per network.
 
 | Contract | Address |
 | -------- | -------- |
-| Interest Rate Model (Partitioned) | 0x0c2f45a612e217f206861CFAf6073F154579B0dE |
-| K2 Lending | 0x10163A57EeCE9EB14Fe9e49889060D0E22c74F1F |
-| Reporter Registry | 0x5b98dC0050f082ffda2d5b13f7e47529638197BE |
-| K2 Depositor | 0x3e0D17B69504E4305fbd2D82B9F49240b124f0D3 |
-| Node Operator Module | 0x6bA61F2CFfEC4cECCc73397E9b04D04b4106658d |
+| [kETH](https://goerli.getketh.com) | 0x509c0a85e5e23bAB829B441Ed5390452dEf827e4 |
+| Interest Rate Model (Partitioned) | 0x7EcdED6B5AF1a3c164438d2F67f7393c6f7a81E9 |
+| K2 Lending | 0xEEc98aBa34AB03EC1533D37F5256651b43E32d05 |
+| Reporter Registry | 0x49Cbf1652B522d4946d684610E7360328663C01c  |
+| K2 Depositor | TODO |
+| Node Operator Module | 0x10b37A1A3e3114fe479B2cf962dB8806c941d2Dc |
+| RST Factory | 0xE7e0d6DFef5F78e3B8BC2452936BA5DC46BD02C4 |
+| RST Incentives | 0xEd630fCB615f46F1781254cccbBf7d6243De5887 |
 
 ## Contract Utilities
 
