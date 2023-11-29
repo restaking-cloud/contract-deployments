@@ -16,6 +16,7 @@ Below you can find the contracts and their addresses per network.
 | Node Operator Module | 0x10b37A1A3e3114fe479B2cf962dB8806c941d2Dc |
 | RST Factory | 0xE7e0d6DFef5F78e3B8BC2452936BA5DC46BD02C4 |
 | RST Incentives | 0xEd630fCB615f46F1781254cccbBf7d6243De5887 |
+| [Proposer Registry](https://github.com/pon-network/contract-deployments) | 0x1643ec804d944Da97d90c013cBaCD1358Cce1bAF |
 
 ## Contract Utilities
 
