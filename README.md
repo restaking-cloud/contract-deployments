@@ -1,6 +1,6 @@
 # K2 Contract Deployments
 
-K2 is currently deployed on `Goerli` and `Holesky` networks.
+K2 is currently deployed on `Holesky` network(s).
 
 Below you can find the contracts and their addresses per network.
 
@@ -17,22 +17,23 @@ Below you can find the contracts and their addresses per network.
 | RST | 0x2806C568d5aE709a2b05F22645C580bFE9F4755c |
 | Proposer Registry | 0x33a12a1cdc00EE02976fE41509A4A053b9DC5555 | 
 
-## Goerli Deployment
+More info here: https://docs.restaking.cloud/k2docs/sdk/Introduction
 
-| Contract | Address |
-| -------- | -------- |
-| [kETH](https://goerli.getketh.com) | 0x509c0a85e5e23bAB829B441Ed5390452dEf827e4 |
-| Interest Rate Model (Partitioned) | 0x7EcdED6B5AF1a3c164438d2F67f7393c6f7a81E9 |
-| K2 | 0xEEc98aBa34AB03EC1533D37F5256651b43E32d05 |
-| Reporter Registry | 0x49Cbf1652B522d4946d684610E7360328663C01c  |
-| K2 Depositor | 0x197F742c021f760356dABBce747706a01B1A0349 |
-| Node Operator Module | 0x10b37A1A3e3114fe479B2cf962dB8806c941d2Dc |
-| RST | 0xE7e0d6DFef5F78e3B8BC2452936BA5DC46BD02C4 |
-| [Proposer Registry](https://github.com/pon-network/contract-deployments) | 0x1643ec804d944Da97d90c013cBaCD1358Cce1bAF |
-
-## Contract Utilities
+## K2 Smart Contract Utilities
 
 K2 SDK can be found here:
 ```
 https://github.com/restaking-cloud/K2-sdk
 ```
+
+# PNO Module Deployments
+
+Restaking cloud's Preferred Node Operator (PNO) Module is deployed on `Holesky` network(s).
+
+## Holesky Deployment
+
+| Contract | Address |
+| -------- | -------- |
+| PNO Registry | 0xfFa542ef408440A34809cBb754Aecb28dB1F5c5c |
+
+More information here: https://docs.restaking.cloud/nodecloud/holesky
